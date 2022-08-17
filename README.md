@@ -1,7 +1,8 @@
 The official redcatSettings in CLI format
 
 To run redcatSettings do:
-```$ sudo redcat-settings-cli
+```
+$ sudo redcat-settings-cli
 ```
 Requirements:
 -NetworkManager installed
